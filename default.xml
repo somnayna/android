@@ -14,7 +14,7 @@
   <remote  name="somnayna"
            fetch="https://github.com/somnayna" />
   
-    <remote  name="omnirom-mtk"
+  <remote  name="omnirom-mtk"
            fetch="https://github.com/omnirom-mtk" />
   
   <remote  name="omnirom"
